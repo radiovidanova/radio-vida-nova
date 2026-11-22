@@ -1,4 +1,4 @@
-# ✝ Rádio Vida Nova — Web Rádio Evangélica (100% Gratuita)
+# 🎵 Rádio Vida Nova — Web Rádio Evangélica (100% Gratuita)
 
 Uma web rádio completa e gratuita: site com player, playlist, programação, vinhetas e pedidos de oração.
 
