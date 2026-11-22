@@ -934,14 +934,7 @@ const LIBRARY = [
 ];
 
 // ---------- Vinhetas da rádio ----------
-const VIGNETTES = [
-  { title: 'Vinheta de Abertura', desc: 'Identificação da rádio', src: 'https://archive.org/download/09-oh-happy-day/01%20Amazing%20Grace.mp3', dur: '0:15' },
-  { title: 'Vinheta Institucional', desc: 'Quem somos', src: 'https://archive.org/download/09-oh-happy-day/02%20Whispering%20Hope.mp3', dur: '0:20' },
-  { title: 'Vinheta de Programa', desc: 'Anúncio de atração', src: 'https://archive.org/download/09-oh-happy-day/03%20Wings%20of%20a%20Dove.mp3', dur: '0:12' },
-  { title: 'Vinheta de Encerramento', desc: 'Despedida', src: 'https://archive.org/download/09-oh-happy-day/04%20One%20Day%20at%20a%20Time.mp3', dur: '0:18' },
-  { title: 'Chamada para Pedidos', desc: 'Peça sua música', src: 'https://archive.org/download/09-oh-happy-day/05%20What%20a%20Friend%20We%20Have%20in%20Jesus.mp3', dur: '0:22' },
-  { title: 'Vinhetão (sweep)', desc: 'Transição entre blocos', src: 'https://archive.org/download/09-oh-happy-day/06%20In%20the%20Garden.mp3', dur: '0:08' },
-];
+const VIGNETTES = [];
 
 // ---------- Elementos ----------
 const audio = document.getElementById('audio');
